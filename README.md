@@ -7,6 +7,6 @@ Simply using ```make -jN```, where N is the number of processors you have availa
 
 # How and Why
 Made with Julia 1.13, partly as a way to exercise my initial studies with the language.
-This code has been run on a Fedora 31 machine.
+This code has been run on a Fedora 32 machine.
 
 Use by your own discretion.
